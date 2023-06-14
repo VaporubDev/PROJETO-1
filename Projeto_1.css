@@ -1,0 +1,109 @@
+body{
+  font-family: sans-serif;
+  background-image: url(imagens/bg-2.jpg);
+  background-repeat: no-repeat;
+  background-size: 1550px 610px ;
+  background-position: 0px -230px;
+  background-attachment: scroll;
+  background-color: rgba(166, 166, 166, 0.84);
+}
+
+.Menu a{
+  color: white;
+  background-color: #000000ba;
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.Menu li{
+  list-style: none;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  padding: 1px;
+  margin-left: 10px;
+}
+.Menu{
+  text-align: end;
+}
+
+.Menu a:hover{
+  background-color: #000000df;
+  color: #b260ff66;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 60px;
+  font-size: 60px;
+  text-shadow: 2px 2px 2px black;
+  letter-spacing: 5px;
+}
+
+h4{
+  background-color: rgba(0, 0, 0, 0.623);
+  color: rgba(255, 255, 255, 0.757);
+  text-align: center;
+  padding: 10px;
+  margin: auto;
+  width: 27%;
+  height: auto;
+  border-bottom: rgb(255, 255, 255) groove 3px;
+  margin-bottom: 70px;
+}
+
+h2{
+  background-color: #c4c4c4;
+  border-bottom: #d6d6d6 groove 3px;
+  margin: auto;
+  width: 95%;
+  height: auto;
+  margin-top: 1px;
+}
+
+.saibamais{
+  color: rgb(0, 0, 0);
+  background-color: #42424223;
+  padding: 10px;
+  margin-left: 3%;
+  text-decoration: none;
+  border-bottom: black groove 2px;
+}
+
+a:hover{
+  background-color: #00000077;
+  color: #28143a;
+}
+
+p{
+  margin: auto;
+  width: 95%;
+  height: auto;
+  margin-bottom: 40px;
+}
+
+.rodapé{
+  background-color: rgba(0, 0, 0, 0.623);
+  color: #ffffffc1;
+  text-align: center;
+  padding: 25px;
+  width: auto;
+  height: auto;
+  margin-bottom: auto;
+  text-shadow: 2px 2px 2px black;
+  margin-top: 100px;
+}
+
+main{
+  width: 90%;
+  margin: auto;
+  max-width: 1000px;
+}
+
+article{
+  background-color: rgba(255, 255, 255, 0.434);
+  padding: 16px 5px;
+  margin-bottom: 32px;
+}

@@ -4,7 +4,7 @@
 ## 🖼️Imagem do projeto
 
 <p align="center">
-  <img alt="Preview_Projeto-1" src="Preview_fnaf2.jpeg" width="100%">
+  <img alt="Preview_Projeto-1" src="Demonstração do projeto.mp4" width="100%">
 </p>
 
 ## 🔧Tecnologias usadas

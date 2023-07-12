@@ -4,7 +4,7 @@
 ## 🖼️Imagem do projeto
 
 <p align="center">
-  <img alt="Preview_Projeto-1" src="Demonstração do projeto.mp4" width="100%">
+  <video alt="Preview_Projeto-1" src="Demonstração do projeto.mp4" width="100%">
 </p>
 
 ## 🔧Tecnologias usadas

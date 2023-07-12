@@ -1,7 +1,7 @@
 <h1 align="center"> 💻 Projeto 1 </h1>
 <br>
 
-## 🖼️Imagem do projeto
+## 🖼️Preview do projeto
 
 <p align="center">
   <img alt="Preview_Projeto-1" src="Projeto1_1.gif" width="100%">

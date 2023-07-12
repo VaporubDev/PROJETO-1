@@ -4,7 +4,7 @@
 ## 🖼️Imagem do projeto
 
 <p align="center">
-  <img alt="Preview_Projeto-1" src="Preview_Projeto-1_1.gif" width="100%">
+  <img alt="Preview_Projeto-1" src="Projeto1_1.gif" width="100%">
 </p>
 
 ## 🔧Tecnologias usadas

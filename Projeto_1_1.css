@@ -1,0 +1,111 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url(img/Fundo.gif);
+  background-repeat: no-repeat;
+  background-size: 1550px 610px ;
+  background-position: 0px -230px;
+  background-attachment: scroll;
+  background-color: #f8d9ffd6;
+}
+
+.Menu a{
+  color: #e9a6ff;
+  background-color: #0000009f;
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+  text-shadow: 1px 1px 1px black;
+}
+
+.Menu li{
+  list-style: none;
+  display: inline-block;
+  background-color: #ffffff;
+  padding: 1px;
+  margin-left: 10px;
+}
+.Menu{
+  text-align: end;
+}
+
+.Menu a:hover{
+  background-color: #000000cb;
+  color: #b260ff66;
+}
+
+h1{
+  color: #f5d8ff;
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 60px;
+  font-size: 60px;
+  text-shadow: 2px 2px 2px black;
+  letter-spacing: 5px;
+}
+
+h4{
+  background-color: #0000007c;
+  color: #f5d8ff;
+  text-align: center;
+  padding: 10px;
+  margin: auto;
+  width: 27%;
+  height: auto;
+  border-bottom: #da6bff85 groove 3px;
+  margin-bottom: 70px;
+  text-shadow: 1px 1px 1px black;
+}
+
+h2{
+  background-color: #e9a6ff;
+  border-bottom: #e38fff9f groove 3px;
+  margin: auto;
+  width: 95%;
+  height: auto;
+  margin-top: 1px;
+}
+
+.saibamais{
+  color: #000000;
+  background-color: #ae7cbd77;
+  padding: 10px;
+  margin-left: 3%;
+  text-decoration: none;
+  border-bottom: #e9a6ff88 groove 3px;
+}
+
+a:hover{
+  background-color: #c0c0c0b7;
+  color: #8d40a7;
+}
+
+p{
+  margin: auto;
+  width: 95%;
+  height: auto;
+  margin-bottom: 40px;
+}
+
+.rodapé{
+  background-color: #00000074;
+  color: #e186ff90;
+  text-align: center;
+  padding: 25px;
+  width: auto;
+  height: auto;
+  margin-bottom: auto;
+  text-shadow: 1px 1px 1px black;
+  margin-top: 100px;
+}
+
+main{
+  width: 90%;
+  margin: auto;
+  max-width: 1000px;
+}
+
+article{
+  background-color: #ffffff6f;
+  padding: 16px 5px;
+  margin-bottom: 32px;
+}
